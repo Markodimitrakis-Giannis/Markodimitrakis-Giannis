@@ -1,5 +1,5 @@
 # 💫 About Me:
--Junior Fullstack Developer with the goal of designing,developing and implementing <br>state-of-the-art software applications.<br><br>-Integrated Msc degree in Electrical & Computer Engineering and  big fondness for JavaScript <br>from Backend to Frontend.<br><br>-Contact me on giannis.markod@gmail.com
+-Junior Fullstack Developer with the goal of designing,developing and implementing <br>state-of-the-art software applications.<br><br>-Integrated Msc Degree in Electrical & Computer Engineering and  big fondness for JavaScript <br>from Backend to Frontend.<br><br>-Contact me on giannis.markod@gmail.com
 
 
 ## 🌐 Socials:
